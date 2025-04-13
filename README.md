@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afahrlin
 - 👀 I’m interested in music
-- 🌱 I’m currently learning to code an app
-- 📫 How to reach me: alva.fahrlin@precisit.com
+- 🌱 I’m currently studying technical acoustics at Chalmers Technical University
+- 📫 How to reach me: fahrlin@chalmers.se
 
 <!---
 afahrlin/afahrlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
